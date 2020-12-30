@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.AssemblyInfo.cs
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.exe
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.deps.json
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.runtimeconfig.json
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.runtimeconfig.dev.json
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.dll
+C:\Users\asus\source\repos\zalik\zalik\bin\Debug\netcoreapp3.1\zalik.pdb
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.dll
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.pdb
+C:\Users\asus\source\repos\zalik\zalik\obj\Debug\netcoreapp3.1\zalik.genruntimeconfig.cache
